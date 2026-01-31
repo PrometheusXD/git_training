@@ -3,4 +3,3 @@ Changing Alice.txt.=
 Hi!!!!!! I'm Alice. I'm a file someone added to this repository a while ago.
 Now, I changed the file Alice.txt.
 Changing Alice.txt file.
-foo foo foo
