@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Hi! I'm Bob. I've been here for a while now.
 Hi!! I'm Bob. I'm new here 1.
 Adding some text to Bob.txt.
 Add some text.
+=======
+Hi!! I'm Bob. I'm new here
+Adding some text to Bob.txt.
+>>>>>>> Bobby_branch
